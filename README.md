@@ -6,7 +6,7 @@ CryptoApp is a React Native application that fetches and displays cryptocurrency
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/LohiyaH/CryptoTracker
    cd crypto-app
    ```
 2. Install the dependencies:
